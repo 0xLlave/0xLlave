@@ -1,0 +1,7 @@
+aiogram>=3.0
+sqlalchemy>=2
+asyncpg
+redis
+pydantic-settings
+loguru
+alembic
